@@ -59,9 +59,16 @@ Procedimento ensinado por Maria Eduarda Machado (Maduh), para envio pelo Helpdes
 ## 5. Marcar na Central e registrar no Radar
 
 1. Após o envio efetivo, voltar à Central Smartinho e clicar em **E-mail / Marcar como enviado** na mesma empresa.
-2. Por último, abrir a empresa correspondente no **Radar**.
-3. Colar e salvar a **Observação para o Radar** guardada na preparação, registrando o contato realizado.
-4. Somente após concluir esse registro, seguir para a próxima empresa.
+2. Por último, no **Radar**, acessar **Documentos → Gestão de Documentos → Movimento → Cobrança**.
+3. Conferir o mês de execução do acompanhamento e localizar a empresa no campo **Buscar empresa por nome, CNPJ ou grupo...**.
+4. Clicar na empresa para expandir os detalhes e conferir se é a mesma empresa do e-mail enviado.
+5. Na área **Registrar cobrança**, selecionar **E-mail** como canal do contato.
+6. Colar no campo **Observação (opcional)** o texto de **Observação para o Radar** copiado da Central Smartinho para aquela empresa.
+7. Clicar em **Salvar cobrança**.
+8. Conferir se o registro foi incluído no histórico da empresa.
+9. Somente após concluir esse registro, seguir para a próxima empresa.
+
+As telas também exibem opções de próximo acompanhamento e prazo informado pelo cliente. O destaque de **2 dias** no exemplo não foi definido como regra geral; não presumir prazo informado pelo cliente.
 
 ## Cuidados
 
@@ -70,9 +77,5 @@ Procedimento ensinado por Maria Eduarda Machado (Maduh), para envio pelo Helpdes
 - O contato selecionado na criação e o responsável pelo atendimento são campos diferentes; conferir ambos.
 - Marcar o envio e registrar o contato somente após o e-mail ser efetivamente enviado.
 - Se o envio falhar, não registrar como concluído.
-
-## Próxima etapa de treinamento
-
-Detalhamento dos campos e botões para localizar a empresa e salvar a observação no Radar.
 
 Atualizado em 05/11/2026, com base nas orientações de Maduh e nas telas fornecidas.
