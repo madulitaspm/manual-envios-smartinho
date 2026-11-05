@@ -1,36 +1,78 @@
 # Manual de envios — Smartinho
 
-Procedimento de envio de e-mails pelo Helpdesk e registro de contatos no Radar, conforme orientações de Maria Eduarda Machado (Maduh).
+Procedimento ensinado por Maria Eduarda Machado (Maduh), para envio pelo Helpdesk (Agidesk) e registro no Radar.
 
 ## Plataformas
 
 | Plataforma | Finalidade |
 | --- | --- |
-| Central Smartinho | Localizar a empresa, destinatário, assunto, mensagem e observação para o Radar; marcar o e-mail enviado. |
-| Meus Atendimentos / Contplan — Helpdesk | Enviar o e-mail. |
+| Central Smartinho | Localizar empresa, destinatário, assunto, mensagem e observação para o Radar; marcar o envio. |
+| Meus Atendimentos / Contplan — Helpdesk (Agidesk) | Criar o atendimento, assumir a responsabilidade, enviar o e-mail e acompanhar a resposta. |
 | Radar | Registrar o contato realizado na empresa correspondente. |
 
-## Fluxo por empresa
+## 1. Preparar na Central Smartinho
 
-1. Na Central Smartinho, abrir **Lembretes do prazo** e selecionar o filtro **Sem envios**.
+1. Abrir **Lembretes do prazo** e filtrar por **Sem envios**.
 2. Clicar na empresa para expandir as mensagens de WhatsApp e e-mail.
-3. Na seção de e-mail, conferir e copiar **destinatário**, **assunto** e **corpo do e-mail** da empresa.
-4. Guardar a **Observação para o Radar** exibida abaixo, mantendo sua associação com a empresa.
-5. No Helpdesk, enviar o e-mail para o destinatário indicado e confirmar que o envio foi concluído.
-6. Voltar à Central Smartinho e clicar em **E-mail / Marcar como enviado** na mesma empresa.
-7. Por último, localizar a mesma empresa no Radar e registrar o texto da **Observação para o Radar**.
-8. Após concluir o registro, seguir para a próxima empresa.
+3. Conferir e copiar **destinatário**, **assunto** e **corpo do e-mail** específicos da empresa.
+4. Guardar também a **Observação para o Radar**, mantendo sua associação com a empresa. Ela será usada no final, depois do envio.
+
+## 2. Criar o atendimento no Helpdesk
+
+1. Em **Meus atendimentos**, clicar em **Criar**.
+2. Pesquisar o e-mail indicado pela Central no campo **Contato**.
+   - Se o contato aparecer na lista, selecioná-lo.
+   - Se não aparecer, usar **Atribuir a mim**. Nos exemplos fornecidos, o contato exibido é **Maria Machado**. Isso não substitui a transferência de responsabilidade feita depois.
+3. Conferir o campo **Cliente**. Quando a empresa não for preenchida automaticamente, selecionar a empresa correspondente. No exemplo de contato próprio, aparece Contplan; conferir a vinculação em cada caso conforme a orientação de Maduh.
+4. Em **Abrir por serviço**, preencher:
+
+| Campo | Opção |
+| --- | --- |
+| Seção | Setor de Protocolo |
+| Tópico | Gestão de documentos |
+| Serviço | Cobrar dos clientes arquivos pendentes |
+
+5. Clicar em **Salvar**.
+6. Na etapa de **descrição e anexos**, clicar novamente em **Salvar**, sem preencher esses campos neste fluxo.
+7. Aguardar a abertura da tela com código do atendimento, situação, prioridade, prazos e responsável.
+
+## 3. Assumir e organizar o atendimento
+
+1. Como primeira ação na tela do atendimento, abrir o menu de **três pontos** e escolher **Transferir**.
+2. Clicar em **Atribuir a mim** e depois em **Salvar**, para deixar o atendimento sob responsabilidade de Maria Machado e permitir o acompanhamento.
+3. Editar o título no topo, substituindo o nome automático do serviço por um título curto e identificável, por exemplo:
+   - **Acompanhamento - NOME DA EMPRESA**; ou
+   - **Documentos - NOME DA EMPRESA**.
+4. Na lixeira do próprio comentário, excluir somente o comentário automático **Cobrar dos clientes arquivos pendentes**. Não confundir essa lixeira com a exclusão do atendimento nem remover outras interações.
+
+## 4. Enviar o e-mail
+
+1. Clicar em **Enviar e-mail**.
+2. No campo **Para**, selecionar ou informar o e-mail do cliente indicado pela Central Smartinho.
+3. Conferir os destinatários. Quando o atendimento tiver sido criado com o contato próprio, substituir esse destinatário pelo e-mail correto do cliente.
+4. Substituir o assunto automático pelo **assunto do modelo da Central**.
+5. Colar o **corpo do e-mail** da mesma empresa.
+6. Conferir empresa, destinatário, assunto e mensagem, e realizar o envio.
+7. Confirmar que o envio foi concluído.
+8. No campo **Situação**, clicar no **lápis** e alterar para **Aguardando cliente**, salvando a alteração. Assim, o retorno poderá ser acompanhado e notificado pelo Helpdesk.
+
+## 5. Marcar na Central e registrar no Radar
+
+1. Após o envio efetivo, voltar à Central Smartinho e clicar em **E-mail / Marcar como enviado** na mesma empresa.
+2. Por último, abrir a empresa correspondente no **Radar**.
+3. Colar e salvar a **Observação para o Radar** guardada na preparação, registrando o contato realizado.
+4. Somente após concluir esse registro, seguir para a próxima empresa.
 
 ## Cuidados
 
-- Conferir a correspondência entre empresa, responsável e endereço antes do envio.
-- Usar o texto específico apresentado para cada empresa.
+- Conferir empresa, responsável e endereço antes de cada envio.
+- Usar os textos específicos exibidos para cada empresa.
+- O contato selecionado na criação e o responsável pelo atendimento são campos diferentes; conferir ambos.
 - Marcar o envio e registrar o contato somente após o e-mail ser efetivamente enviado.
 - Se o envio falhar, não registrar como concluído.
 
-## Etapas que ainda serão ensinadas
+## Próxima etapa de treinamento
 
-- Passo a passo dos campos e botões de envio no Helpdesk.
-- Passo a passo para localizar a empresa e salvar a observação no Radar.
+Detalhamento dos campos e botões para localizar a empresa e salvar a observação no Radar.
 
-Documentação inicial: 05/11/2026.
+Atualizado em 05/11/2026, com base nas orientações de Maduh e nas telas fornecidas.
