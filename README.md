@@ -79,3 +79,14 @@ As telas também exibem opções de próximo acompanhamento e prazo informado pe
 - Se o envio falhar, não registrar como concluído.
 
 Atualizado em 05/11/2026, com base nas orientações de Maduh e nas telas fornecidas.
+
+## Cobrança de documentos pelo Radar — Ágile e Outsourcing
+
+1. Em **Gestão de Documentos → Movimento → Cobrança**, selecionar o mês de execução, as células **ÁGILE** e **OUTSOURCING**, a situação **Não cobrado** e as prioridades **Retenções fixas**, **Aplicações** e **Distribuições de lucro**. Abrir uma empresa e conferir os itens pendentes e suas competências. Por exemplo, a lista de execução de novembro pode incluir documentos de outubro.
+2. Em outra aba, abrir **Gestão de Documentos → Movimento → Movimento**. Filtrar pela mesma empresa e pela competência do documento. Localizar um documento com status **Enviado**, de preferência do mesmo tipo. Se todos estiverem pendentes, consultar a competência anterior.
+3. Na linha do documento, clicar no relógio **Ver Log**. Em **Histórico**, localizar **Documento enviado pelo cliente via Portal** e conferir **Usuário** e **Email**. Um registro de download por um colaborador ou de sincronização automática não identifica quem enviou. Se houver responsáveis diferentes por documento, conferir cada item antes de agrupá-los.
+4. Voltar à empresa em **Cobrança**, abrir **Mensagem → Enviar por e-mail** e comparar o endereço do histórico com as opções em **Enviar para**. Selecionar o endereço exato e desmarcar os demais destinatários do cliente, inclusive o principal pré-selecionado, quando diferente. Se faltar o endereço ou houver dúvida sobre o responsável, separar a empresa para revisão e seguir para a próxima.
+5. Conferir a empresa, a competência, os itens, o assunto e a cópia para quem acompanha o retorno. Clicar uma vez em **Enviar e-mail**. Conferir no histórico da cobrança o registro **E-mail enviado automaticamente para**, com o endereço e o assunto corretos. Se a empresa sair da lista **Não cobrado**, procurá-la sem esse filtro para verificar o histórico antes de tentar novamente.
+6. Após confirmar o envio, fechar a mensagem pelo **X** e repetir a consulta para a próxima empresa.
+
+Procedimento demonstrado em 06/11/2026.
